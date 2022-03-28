@@ -1,0 +1,12 @@
+.mainAction{
+    padding-top: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.textDiv{
+ font-size:40px;
+}
+/* @use "@material/button"; */
+
+

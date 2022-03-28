@@ -1,0 +1,41 @@
+@import "@material/button/mdc-button";
+
+
+
+.mdc-floating-label{
+  margin-left: 10px;
+}
+#container{
+display:inline;
+float: right;
+padding: 25px;
+
+}
+.login{
+    text-align: center;
+}
+.username,
+.password {
+  display: flex;
+  margin: 20px auto;
+  width: 300px;
+}
+
+.button-container {
+    display: flex;
+    justify-content:flex-start;
+    width: 250px;
+    margin: auto;
+  }
+  
+  .button-container button {
+    margin: 3px;
+  }
+  
+  /* body,html {
+      background-image: url('wall.jpg') ;
+      background-repeat: no-repeat;
+      background-size:cover;  
+  } */
+  
+  

@@ -1,0 +1,30 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akovacspentalog/RentBudyBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akovacspentalog/RentBudyBackend/issues"
+  },
+  "homepage": "https://github.com/akovacspentalog/RentBudyBackend#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "express-list-endpoints": "^6.0.0",
+    "express-list-routes": "^1.1.3",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  }
+}
